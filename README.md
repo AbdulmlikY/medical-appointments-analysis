@@ -1,6 +1,6 @@
 # Medical Appointment Attendance Analysis
 
-This project was completed as part of the Udacity Data Analyst Nanodegree.
+
 
 ## Dataset
 Medical Appointment No Shows Dataset
