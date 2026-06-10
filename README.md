@@ -9,7 +9,7 @@ Medical Appointment No Shows Dataset
 Source:
 - No-show Appointments Dataset
 - Original source on Kaggle:
-  https://www.kaggle.com/datasets/joniarroba/noshowappointments
+ 
 
 ## Tools Used
 - Python
