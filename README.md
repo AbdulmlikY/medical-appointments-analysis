@@ -6,9 +6,6 @@
 
 Medical Appointment No Shows Dataset
 
-Source:
-- No-show Appointments Dataset
-- Original source on Kaggle:
  
 
 ## Tools Used
